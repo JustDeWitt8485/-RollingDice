@@ -3,7 +3,7 @@
 I did not need a second Array
 let D1 = Math.ceil(Math.random() * 6);
 let D2 = Math.ceil(Math.random() * 6); 
-D1 & D2 need to be there own statements first
+D1 & D2 need to be their own statements first
 before set = to a  static variable
 make a array to hold 2-12 (1-6 * 2)
 index [0-10] counting #'s (1-11)... 
@@ -53,7 +53,6 @@ chart.title("Rolling Dice");
 //draw
 chart.container("container");
 chart.draw();
-
 
 
 
